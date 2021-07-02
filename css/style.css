@@ -139,24 +139,23 @@ body {
 }
 
 .description {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 400;
-  line-height: 24px;
+  line-height: 1.5;
   margin-top: 24px;
   width: 650px;
 }
 
 .info-conteiner {
-  margin-top: 65px;
-  margin-left: 90px;
+  padding: 60px 30px;
 }
 
 .project-title {
-  font-size: 22px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 24px;
   margin-bottom: 10 px;
-  margin-top: 65px;
+  margin-top: 55px;
 }
 
 .distance-project-item {
@@ -164,14 +163,14 @@ body {
 }
 
 .project-link {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
   color: #7a7a7a;
 }
 
 .tech-name {
-  font-size: 14px;
+  font-size: 18px;
   font-weight: 400;
   line-height: 24px;
   color: #7a7a7a;
@@ -195,7 +194,7 @@ body {
 
 .project-item-title {
   color: #ff781e;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 700;
   line-height: 24px;
 }
@@ -205,10 +204,10 @@ body {
 }
 
 .about-me-title {
-  font-size: 22px;
+  font-size: 25px;
   font-weight: 700;
   line-height: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .company-title {
@@ -219,12 +218,13 @@ body {
 }
 
 .name-company {
+  font-size: 18px;
   color: #ff781e;
 }
 
 .profession-time {
   color: #a8a8a8;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 400;
   line-height: 24px;
 }
@@ -247,8 +247,10 @@ body {
 }
 
 .specialty {
-  margin-top: 15px;
-  margin-bottom: 15px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .last-div {
@@ -259,13 +261,15 @@ body {
   margin-bottom: 30px;
 }
 
-.font-style {
+/* .font-style {
   font-size: 14px;
   font-weight: 600;
   line-height: 24px;
-}
+} */
 
 .language-item {
   color: black;
-  font-weight: 600;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
 }
